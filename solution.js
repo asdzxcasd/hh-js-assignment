@@ -86,5 +86,5 @@ function run() {
     console.log(graph.evaluateAll());
 }
 
-testLazy();
-testAll();
+runLazy();
+run();
